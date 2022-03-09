@@ -47,8 +47,6 @@ ROTC 61st
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />  
 </div>
 
-</td><td valign="top" width="50%">
-
 
 
 </table>  
