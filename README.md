@@ -57,11 +57,3 @@ ROTC 61st
 ## Connect with me  
 <ins><div align="center">nadogoyang2@gmail.com</div></ins>  
   
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Minseok-colli&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
